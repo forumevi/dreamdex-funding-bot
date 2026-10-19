@@ -52,7 +52,9 @@ npm start
 
 ## X posts
 
-<!-- bounty requirement: 2-3 posts tagging @DreamDEXSomnia -->
+- https://x.com/0xReddawn/status/2112303197800763680
+- https://x.com/0xReddawn/status/2112303494317170814
+- https://x.com/0xReddawn/status/2112303924011049010
 
 ## Environment
 
