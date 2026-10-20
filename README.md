@@ -56,6 +56,16 @@ npm start
 - https://x.com/0xReddawn/status/2112303494317170814
 - https://x.com/0xReddawn/status/2112303924011049010
 
+## Live orders on Somnia Tokyo testnet
+
+BTC-PERP short placed on Somnia Tokyo testnet (Hideki, chain 50383) via `app.testnet.dreamdex.io` Perps Arena. Account: `0xB7F7e388c55f1fA0d553F8Dc1503D260Cc0129f8`.
+
+- `0xcf78b3671ffb4fe3e89ada4230773e10023117b3c3705d3959e2a0ccad02f86b`
+
+Explorer: https://smk-dev-markets-explorer-hideki-euw4-uzavbo36ra-ez.a.run.app/tx/0xcf78b3671ffb4fe3e89ada4230773e10023117b3c3705d3959e2a0ccad02f86b
+
+The bot identified BTC-PERP funding at 132% APR and selected the short side. Note: during the Perps Arena competition period, USDso deposits are paused ("Temporarily paused for the competition"), so the bot runs in dry-run mode against the live feed and orders are placed manually via the app interface.
+
 ## Environment
 
 - Network: Somnia Tokyo testnet (chain 50383, Hideki)
